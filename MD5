@@ -1,0 +1,13 @@
+486f9a29be99192efa7c630aed03ff85 *DESCRIPTION
+3e17579e48cffbd950a7d2051e0584d5 *NAMESPACE
+25e8a38968c765f564865f3849d035cf *R/ADStatQF.R
+2aa19bec8a245e3ef514acb35c347670 *R/AutoTransQF-package.R
+0d51a933ba554de577540b986090c7e6 *R/AutoTransQF.R
+a06494af95a2af2335058d2c44894fdd *R/autotransfuncQF.R
+3d63f06486b3302a0dc1ef59f22ec2da *R/data.R
+74d58be35fb519d02156198d56e27c3d *data/Melanoma.rda
+6f4b8309e12e2357000c85954fd556e9 *man/ADStatQF.Rd
+2f4db1b2249d5527ffd387ec8b58f964 *man/AutoTransQF-package.Rd
+a6ba41569e4e8f6d2a742b8a7d8641b4 *man/AutoTransQF.Rd
+6f54cc610c3b67cc7f9cb4dc59fdd5a6 *man/Melanoma.Rd
+ad24b9d6537eccc4464ab8d097dacb59 *man/autotransfuncQF.Rd
